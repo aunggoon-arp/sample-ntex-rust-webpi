@@ -23,3 +23,14 @@ This repository provides of:
 ## Docker build
 
 - `docker buildx build . -t youraccount/ntex-web-api  --platform linux/amd64 --push`
+
+## Roadmap next version ?
+
+- Swagger OpenAPI support (utoipa)
+- Cancellation token
+- Tokio support
+- Lazy static
+- Image optimize and reducer
+- Clap environment config
+
+`Thanks for review my code...`
