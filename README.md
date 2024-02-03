@@ -2,14 +2,14 @@
 
 This repository provides of:
 
-✅ Ntex REST API
-✅ Error handling
-✅ JWT authentication
-✅ Interaction with the MySql database
-✅ Password encryption
-✅ Payload validation
-✅ Ntex CORS config
-🚫 Ntex Swagger (OpenAPI)
+- ✅ Ntex REST API
+- ✅ Error handling
+- ✅ JWT authentication
+- ✅ Interaction with the MySql database
+- ✅ Password encryption
+- ✅ Payload validation
+- ✅ Ntex CORS config
+- 🚫 Ntex Swagger (OpenAPI)
 
 ## Required
 
